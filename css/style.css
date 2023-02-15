@@ -1,0 +1,10 @@
+html {
+    box-sizing: border-box;
+    font-family: DejaVu Sans Mono, monospace;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+
