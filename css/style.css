@@ -7,4 +7,11 @@ html {
     box-sizing: inherit;
 }
 
+.body {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-image: url(../images/backgroundphotocalculator.jpg);
+    background-size: 
 
+  
+}

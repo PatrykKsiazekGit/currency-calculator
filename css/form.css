@@ -3,6 +3,8 @@
     width: 150px;
     margin-right: 5px;
     display: inline-block;
+    
+    
 }
 
 .form__button {
@@ -55,6 +57,7 @@
     border-style: groove;
     padding: 5px;
     text-align: center;
+    
 }
 
 .form__fieldset {
@@ -62,5 +65,6 @@
     padding: 25px;
     border-radius: 5px;
     margin: auto;
-    background-color: rgb(160, 175, 179)
+    background-color: rgb(160, 175, 179);
+   
 }
