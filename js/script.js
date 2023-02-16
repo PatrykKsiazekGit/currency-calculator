@@ -15,8 +15,10 @@
                 return amount / rateEUR;
         }
     };
+
     const updateResultText = (amount, result, currency) => {
         const resultElement = document.querySelector(".js-result");
+
         resultElement.value = ` ${result.toFixed(2)} ${currency}`;
     }
 
@@ -30,6 +32,7 @@
         const currency = currencyElement.value;
 
         const result = calculateResult(amount, currency);
+
         updateResultText(amount, result, currency);
 
     };
