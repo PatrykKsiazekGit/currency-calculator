@@ -10,7 +10,7 @@ html {
 .body {
     max-width: 1000px;
     margin: 0 auto;
-    opacity: 0.90;
+    opacity: 0.85;
     background-image: url(../images/backgroundphotocalculator.jpg);
     background-size: 1100px 600px;
     background-repeat: no-repeat;

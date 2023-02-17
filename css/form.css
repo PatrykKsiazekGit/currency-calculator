@@ -47,6 +47,7 @@
     width: 100%;
     max-width: 400px;
     border-radius: 10px;
+    
 
 }
 
@@ -64,7 +65,7 @@
     border: 2px solid black;
     padding: 25px;
     border-radius: 5px;
-    margin: auto;
+    margin: 0 auto;
     background-color: rgb(160, 175, 179);
-   
+   margin-top: 15%;
 }
